@@ -8,3 +8,8 @@ def add2(n1, n2):
 			return y
 
 		print add3(3, 4, 5)
+	def add4(n1, n2,n3,n4):
+			z = n1 + n2+n3+n4
+			return z
+
+		print add3(3, 4,5,6)
